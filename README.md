@@ -19,8 +19,8 @@ and the current position in the trace (bottom-right).
 
 ## Citation
 
-If you use VeDebug in your research, we request you to cite our
-[ICSE'22 Demo
+If you use VeDebug in your research, please consider citing our
+[ICSE'19 Demo
 paper](https://cptgit.github.io/dl/papers/BuhseETAL19VeDebug.pdf).
 Thank you!
 
